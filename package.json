@@ -1,0 +1,24 @@
+{
+  "name": "dapp",
+  "version": "1.0.0",
+  "description": "some DApps",
+  "main": "index.js",
+  "dependencies": {
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doresimon/dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doresimon/dapp/issues"
+  },
+  "homepage": "https://github.com/Doresimon/dapp#readme"
+}
